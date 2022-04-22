@@ -1,6 +1,6 @@
 # simpleuserbatch2
 
-Sprint Batch with Multiple data sources
+Sprint Batch with Multiple data sources. It uses separate databases for batch meta-data and application tables.
 
 Databases:
 - batchmetadata - for batch meta-data tables
